@@ -30,7 +30,7 @@ Para utilizar este repositorio, es necesario tener instalado Git y GitHub.
 
 ## Uso
 
-Para ver la presentación, puede clonar el repositorio y abrir el archivo `presentation.md` en un editor de texto compatible con Markdown.
+Para ver la presentación, puede clonar el repositorio y abrir el archivo `hyperblog` en un editor de texto compatible con Markdown.
 
 ## Contribuciones
 
