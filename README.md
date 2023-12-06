@@ -39,3 +39,5 @@ Se aceptan contribuciones al repositorio. Si desea contribuir, puede crear un pu
 ## Licencia
 
 Este repositorio está licenciado bajo la licencia MIT
+
+*Hecho por ingeniero Franco S. Torres V.
